@@ -1,0 +1,8 @@
+c:\users\alcloudfox\documents\visual studio 2015\Projects\AccessSystem\AccessSystem\bin\Debug\AccessSystem.exe.config
+C:\Users\AlCloudFox\Documents\Visual Studio 2015\Projects\AccessSystem\AccessSystem\bin\Debug\AccessSystem.exe
+C:\Users\AlCloudFox\Documents\Visual Studio 2015\Projects\AccessSystem\AccessSystem\bin\Debug\AccessSystem.pdb
+C:\Users\AlCloudFox\Documents\Visual Studio 2015\Projects\AccessSystem\AccessSystem\obj\Debug\AccessSystem.csprojResolveAssemblyReference.cache
+C:\Users\AlCloudFox\Documents\Visual Studio 2015\Projects\AccessSystem\AccessSystem\obj\Debug\AccessSystem.Properties.Resources.resources
+C:\Users\AlCloudFox\Documents\Visual Studio 2015\Projects\AccessSystem\AccessSystem\obj\Debug\AccessSystem.csproj.GenerateResource.Cache
+C:\Users\AlCloudFox\Documents\Visual Studio 2015\Projects\AccessSystem\AccessSystem\obj\Debug\AccessSystem.exe
+C:\Users\AlCloudFox\Documents\Visual Studio 2015\Projects\AccessSystem\AccessSystem\obj\Debug\AccessSystem.pdb
